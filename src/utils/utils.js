@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:80";
+const API_URL = "https://youtube-server1.herokuapp.com";
 
 const youtubeParser = (url) => {
   var regExp =
