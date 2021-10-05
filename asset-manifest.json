@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Youtube/static/css/main.d6aa92af.chunk.css",
+    "main.js": "/Youtube/static/js/main.93f3ee98.chunk.js",
+    "main.js.map": "/Youtube/static/js/main.93f3ee98.chunk.js.map",
+    "runtime-main.js": "/Youtube/static/js/runtime-main.519a9d6e.js",
+    "runtime-main.js.map": "/Youtube/static/js/runtime-main.519a9d6e.js.map",
+    "static/css/2.ea2dbb2d.chunk.css": "/Youtube/static/css/2.ea2dbb2d.chunk.css",
+    "static/js/2.7a99bb9d.chunk.js": "/Youtube/static/js/2.7a99bb9d.chunk.js",
+    "static/js/2.7a99bb9d.chunk.js.map": "/Youtube/static/js/2.7a99bb9d.chunk.js.map",
+    "index.html": "/Youtube/index.html",
+    "static/css/2.ea2dbb2d.chunk.css.map": "/Youtube/static/css/2.ea2dbb2d.chunk.css.map",
+    "static/css/main.d6aa92af.chunk.css.map": "/Youtube/static/css/main.d6aa92af.chunk.css.map",
+    "static/js/2.7a99bb9d.chunk.js.LICENSE.txt": "/Youtube/static/js/2.7a99bb9d.chunk.js.LICENSE.txt",
+    "static/media/Matrix.50301933.png": "/Youtube/static/media/Matrix.50301933.png",
+    "static/media/Homepage.css": "/Youtube/static/media/background.79f4fcad.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.519a9d6e.js",
+    "static/css/2.ea2dbb2d.chunk.css",
+    "static/js/2.7a99bb9d.chunk.js",
+    "static/css/main.d6aa92af.chunk.css",
+    "static/js/main.93f3ee98.chunk.js"
+  ]
+}
